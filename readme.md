@@ -4,5 +4,5 @@ acorn：用于将代码解析成ast
 acorn-walk：抽象语法树遍历器，用于遍历抽象语法树  
 
 自定义plugin：  
-主要是利用了capable这个库  
+主要是利用了tapable这个库  
 步骤：创建->注册->调用
